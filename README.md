@@ -1,4 +1,4 @@
-# D3 and Typescript Project Scaffolding
+# Minimal D3 and Typescript Project
 
 This is a minimal project to let you start coding with D3 in Typescript and build up from the bottom.
 Don't hesitate to take a look at the configuration files:
@@ -6,6 +6,8 @@ Don't hesitate to take a look at the configuration files:
 * `package.json` for all the dependencies and some build scripts
 * `tsconfig.json`defines how typescript is transpiled into Javascript
 * `webpack.config.js` defines how everything is concatenated into an output `main.js` file
+
+The configuration is as minimal as possible.
 
 ## Usage
 
